@@ -12,7 +12,10 @@ The full paper is available at https://arxiv.org/abs/2311.02570
 If you use this work, please cite:
 
 
-@misc {kamruzzaman2023banmani,
+
+
+
+@misc{kamruzzaman2023banmani,
      
       title={BanMANI: A Dataset to Identify Manipulated Social Media News in Bangla}, 
       
